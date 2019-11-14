@@ -1,0 +1,56 @@
+*{
+  background-color: whitesmoke;
+}
+
+nav{
+  background-color: lightgrey;
+  padding: 5px;
+  margin: 20px;
+}
+
+nav li{
+  display: inline;
+  margin: 5px;
+  position: relative;
+  bottom: 40px;
+}
+
+h3{
+  padding: 15px;
+  position: relative;
+  margin: 5px;
+  bottom: -5px;
+}
+
+button{
+  background-color: red;
+  color: white;
+  border-radius: 30px;
+}
+
+figcaption {
+  padding: 5px;
+  margin: 20px;
+}
+
+section div{
+  display: inline-block;
+  padding: 5px;
+  margin: 20px;
+  margin-right: -3px;
+}
+
+article img{
+  float: left;
+  padding: 5px;
+  margin: 15;
+}
+
+p{
+  text-align: justify;
+  padding: 8px;
+  height: 400px;
+  overflow-y: scroll;
+  bottom: 25px;
+  margin-right: 200px;
+}
