@@ -4,15 +4,21 @@
 
 nav{
   background-color: lightgrey;
+  top: 0px;
+  width: 100%;
   padding: 5px;
-  margin: 20px;
+  margin: 0px;
+  position: fixed;
+  z-index: 1;
 }
 
 nav li{
   display: inline;
-  margin: 5px;
+  margin: 20px;
   position: relative;
-  bottom: 40px;
+  border: 10px;
+  bottom: 30px;
+  left: 50px;
 }
 
 h3{
@@ -29,8 +35,8 @@ button{
 }
 
 figcaption {
-  padding: 5px;
-  margin: 20px;
+  padding-top: 80px;
+  margin: 26px;
 }
 
 section div{
@@ -42,7 +48,7 @@ section div{
 
 article img{
   float: left;
-  padding: 5px;
+  padding: 25px;
   margin: 15;
 }
 
