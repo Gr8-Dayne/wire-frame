@@ -28,35 +28,59 @@ h3{
   bottom: -5px;
 }
 
-button{
-  background-color: red;
-  color: white;
-  border-radius: 30px;
-}
-
-figcaption {
-  padding-top: 80px;
-  margin: 26px;
+figcaption{
+  padding-top: 110px;
+  margin-left: 17%;
 }
 
 section div{
   display: inline-block;
   padding: 5px;
-  margin: 20px;
-  margin-right: -3px;
+  margin: auto;
+  margin-left: 1%;
+  margin-top: 10px;
 }
 
-article img{
+#secdiv1{
+  margin-left: 227px;
+}
+
+#secdiv3{
+  margin-right: 227px;
+}
+
+#artimg{
+
   float: left;
   padding: 25px;
-  margin: 15;
+  margin-left: 220px;
 }
 
 p{
   text-align: justify;
   padding: 8px;
   height: 400px;
-  overflow-y: scroll;
+  overflow-y: auto;;
   bottom: 25px;
   margin-right: 200px;
+}
+
+button{
+  background-color: hotpink;
+  color: white;
+  border-radius: 30px;
+  width: 100px;
+  height: 50px;
+  margin-left: 75%;
+  margin-bottom: 175px;
+  border: 10px;
+}
+
+footer{
+  background-color: lightgrey;
+  bottom: 0px;
+  width: 100%;
+  padding: 5px;
+  margin: 0px;
+  height: 75px;
 }
